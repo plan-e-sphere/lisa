@@ -1,4 +1,9 @@
-﻿//**ceci est une page css test pour GIT**//
+﻿/**ceci est une page css test pour GIT**/
+
+body {
+	background-color: orange;
+}
+
 h1 {
 	font-family:fantasy;
 	font-size: 60px;
